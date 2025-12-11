@@ -22,7 +22,7 @@ Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software En
 - 🏆 Thành tích nổi bật: 
   - **CodeFest 2025** (Main Game Developer).
   - Học bổng **70%** tại Đại học FPT.
-- 🤝 Hoạt động: Thành viên Ban học thuật **JS Club** (FPTU).
+- 🤝 Hoạt động: Thành viên Ban chuyên môn **JS Club** (FPTU).
 - 💬 Hỏi mình về: Unity, C#, Java, Design Patterns, OOP.
 <div align="center">
   <br />
