@@ -29,7 +29,7 @@ Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software En
   <a href="mailto:hao.k19.fpthola@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="LINK_FACEBOOK_CUA_BAN_O_DAY">
+  <a href="fb.com/nhhao27">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   </div>
