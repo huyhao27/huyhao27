@@ -87,4 +87,10 @@ Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software En
 </div>
 
 ---
-
+---
+### 🐍 My Coding Snake
+<div align="center">
+  <a href="https://github.com/huyhao27">
+    <img src="https://github.com/huyhao27/huyhao27/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  </a>
+</div>
