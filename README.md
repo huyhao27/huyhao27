@@ -24,7 +24,15 @@ Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software En
   - Học bổng **70%** tại Đại học FPT.
 - 🤝 Hoạt động: Thành viên Ban học thuật **JS Club** (FPTU).
 - 💬 Hỏi mình về: Unity, C#, Java, Design Patterns, OOP.
-- 📫 Liên hệ: [Email](mailto:hao.k19.fpthola@gmail.com) • [Facebook](fb.com/nhhao27)
+<div align="center">
+  <br />
+  <a href="mailto:hao.k19.fpthola@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="LINK_FACEBOOK_CUA_BAN_O_DAY">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  </div>
 
 ---
 
