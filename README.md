@@ -18,12 +18,12 @@
 
 Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software Engineering** tại **FPT University** [Hanoi] và hiện đang là **Unity Developer**.
 
-- 🔭 Hiện đang làm việc tại: **Sonat Game Studio** (Unity Developer Intern).
+- 🔭 Hiện đang làm việc tại: **Sonat Game Studio** (Unity Developer Fresher).
 - 🏆 Thành tích nổi bật: 
   - **CodeFest 2025** (Main Game Developer).
   - Học bổng **70%** tại Đại học FPT.
 - 🤝 Hoạt động: Thành viên Ban chuyên môn **JS Club** (FPTU).
-- 💬 Hỏi mình về: Unity, C#, Java, Design Patterns, OOP.
+- 💬 Tech: Unity, C#, Java, Design Patterns, OOP.
 <div align="center">
   <br />
   <a href="mailto:hao.k19.fpthola@gmail.com">
