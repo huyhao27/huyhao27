@@ -19,10 +19,6 @@
 Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software Engineering** tại **FPT University** [Hanoi] và hiện đang là **Unity Developer**.
 
 - 🔭 Hiện đang làm việc tại: **Sonat Game Studio** (Unity Developer Fresher).
-- 🏆 Thành tích nổi bật: 
-  - **CodeFest 2025** (Main Game Developer).
-  - Học bổng **70%** tại Đại học FPT.
-- 🤝 Hoạt động: Thành viên Ban chuyên môn **JS Club** (FPTU).
 - 💬 Tech: Unity, C#, Java, Design Patterns, OOP.
 <div align="center">
   <br />
@@ -54,16 +50,6 @@ Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software En
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Role | Description | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **CodeFest 2025 Game** | Main Developer | Dự án Game thi đấu bằng thuật toán.| Unity, C#, Socket, OOP, Design Pattern |
-| **The Maze** | Game Designer & Dev | Game giải đố mê cung. | Unity, C#, Tilemap, Algorithm |
-| **The Tuner of Light** | GD & Developer | Dự án dùng để tham gia cuộc thi GameJam do EGDC tổ chức (3rd prize). | Unity, C# |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -88,7 +74,7 @@ Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software En
 
 ---
 ---
-### 🐍 My Coding Snake
+### 🐍 Sờ nếch
 <div align="center">
   <a href="https://github.com/huyhao27">
     <img src="https://github.com/huyhao27/huyhao27/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
