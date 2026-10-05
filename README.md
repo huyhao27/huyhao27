@@ -14,72 +14,68 @@
 
 ---
 
-### 👨‍💻 About Me
+# Nguyen Huy Hao
 
-Hi there! I'm **Hao**, a K19 **Software Engineering** student at **FPT University** (Hanoi) and currently working as a **Unity Developer**.
+**Unity Developer @ Sonat Game Studio** · Hanoi, Vietnam
 
-- 🔭 Currently working at **Sonat Game Studio** as a Unity Developer (Fresher).
-- 💬 Tech: Unity, C#, Java, Design Patterns, OOP.
+I build casual and puzzle mobile games in Unity / C#, and the level tooling behind them —
+editors, validators and difficulty simulation that let designers ship content without opening Unity.
 
-<div align="center">
-  <br />
-  <a href="mailto:hao.k19.fpthola@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/nhhao27">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/hao-nguyen-huy-aaa746437/) · [Email](mailto:hao.k19.fpthola@gmail.com)
 
 ---
 
-### 🛠 Tech Stack & Tools
+## Shipped Games
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</div>
+| Game | Links | My work |
+|---|---|---|
+| **Bubble Fish: Sort Puzzle**<br/>Triple-match sort puzzle | [Google Play](https://play.google.com/store/apps/details?id=com.bubble.fish.sort.puzzle) · [App Store](https://apps.apple.com/app/id6813802366) | Gameplay, level pipeline, level validation, DDA |
+| **Cozy Life: Decor Room**<br/>Unpacking & room-decoration puzzle · 100K+ downloads | [Google Play](https://play.google.com/store/apps/details?id=com.unpacking.cozy.home.dream) · [App Store](https://apps.apple.com/app/id6744342887) | Gameplay, playtest & level tooling |
+
+## Level Design Tooling — Bubble Fish
+
+A browser-based **Level Studio** (Python + vanilla JS) used by game designers and marketing
+to build, check and tune 1,300+ levels without Unity.
+
+**Level editor**
+- Edit bubbles, fish, capacities and 15 level mechanics (frozen, locked/key, hidden fish, …) with undo, hotkeys and multi-select
+- In-browser playtest that mirrors the in-game board, trays and waiting queue
+- Batch export straight into the Unity project's Addressables folder, with deterministic `.meta` GUIDs so re-exports never break references
+
+**Validation**
+- Validator ported 1:1 from the game's C# `LevelDataValidator` — one rule set shared by the CLI, the web editor and the runtime
+- Audited the rules against real gameplay code: removed three rules inherited from ball-sort that falsely failed valid levels, and promoted fish overflow to an error after finding it silently made levels unbeatable
+- Greedy solver checks every level is clearable before it ships
+
+**Dynamic difficulty (DDA)**
+- Tray-order model that picks the next fish species from live board, queue and pending-bubble pools
+- Feasibility filter so a tray is only ever ordered when enough fish remain to fill it
+- Five-tier priority by fish availability, with deterministic tie-breaks and no duplicate species across trays
+- DDA certification panel that simulates levels under the game's rules to check difficulty before release
+
+## Other Tools
+
+- **Playtest & level tool (Cozy Life)** — imports artist PSB/PSD files and rebuilds levels, sprites and boards automatically; in-tool editor; exports sync straight into Unity
+- **Haptics module** — cross-platform haptics bridge with an on-device companion app for tuning feedback on real hardware
+
+## Non-Unity Project
+
+**Dream Coffee** — PC game (`.exe`) built with [engine/framework]
+- [One line: genre / what the game is]
+- Storefront: Astro + Hono + React on Cloudflare Workers (D1, R2), with license-key signing and Playwright E2E tests
+
+## Game Jams
+
+- **[SeeeJam](https://github.com/huyhao27/SeeeJam)** — BKU Game Jam
+- **[Gametopia]([link])** — [one line]
+- **[Game Jam 2026]([link])** — [one line]
+
+## Tech
+
+**Game:** C# · Unity · Addressables · DOTween · Feel
+**Tooling:** Python · JavaScript · PyInstaller
+**Web:** TypeScript · Astro · Hono · Cloudflare Workers
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyhao27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhao27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huyhao27&theme=git_dark&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyhao27&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
-</div>
-
----
-
-### 📈 Coding Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huyhao27&bg_color=0D1117&color=F75C7E&line=0e75b6&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <a href="https://github.com/huyhao27">
-    <img src="https://raw.githubusercontent.com/huyhao27/huyhao27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-  </a>
-</div>
+<sub>Software Engineering student at FPT University (K19).</sub>
