@@ -16,19 +16,20 @@
 
 ### 👨‍💻 About Me
 
-Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software Engineering** tại **FPT University** [Hanoi] và hiện đang là **Unity Developer**.
+Hi there! I'm **Hao**, a K19 **Software Engineering** student at **FPT University** (Hanoi) and currently working as a **Unity Developer**.
 
-- 🔭 Hiện đang làm việc tại: **Sonat Game Studio** (Unity Developer Fresher).
+- 🔭 Currently working at **Sonat Game Studio** as a Unity Developer (Fresher).
 - 💬 Tech: Unity, C#, Java, Design Patterns, OOP.
+
 <div align="center">
   <br />
   <a href="mailto:hao.k19.fpthola@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="fb.com/nhhao27">
+  <a href="https://www.facebook.com/nhhao27">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  </div>
+</div>
 
 ---
 
@@ -53,7 +54,7 @@ Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software En
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyhao27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=huyhao27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhao27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
 
@@ -62,10 +63,11 @@ Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software En
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyhao27&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyhao27&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
 </div>
 
 ---
+
 ### 📈 Coding Activity Graph
 
 <div align="center">
@@ -73,10 +75,11 @@ Xin chào! Mình là **Hào**, một sinh viên K19 chuyên ngành **Software En
 </div>
 
 ---
----
-### 🐍 Sờ nếch
+
+### 🐍 Contribution Snake
+
 <div align="center">
   <a href="https://github.com/huyhao27">
-    <img src="https://github.com/huyhao27/huyhao27/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+    <img src="https://raw.githubusercontent.com/huyhao27/huyhao27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
   </a>
 </div>
